@@ -17,4 +17,4 @@ elif operation == "pow":
 elif operation == "div" and num2 != 0:
   print(num1 // num2)
 else:
-  print("error")
+  print("Division by 0!")

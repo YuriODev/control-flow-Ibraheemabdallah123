@@ -21,6 +21,6 @@ elif num > 28 and num < 37:
   else:
     print("Black")
 elif num > 36:
-  print("that will not play")
+  print("The bet will not play!")
 else:
   print("Green")
