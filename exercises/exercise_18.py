@@ -7,48 +7,48 @@ if name == "yes":
     if drunk == "yes":
       rekindle = input("do you want to rekindle")
       if rekindle == "yes":
-        print("dont say hi")
+        print("Don't say hi.")
       else:
-        print("say hi")
+        print("Say hi.")
     else:
       car = input("are you in a car with brad pitt or rihanna")
       if car == "yes":
-        print("say hi")
+        print("Say hi.")
       else:
-        print("dont say hi")
+        print("Don't say hi")
   else:
     friend = input("is it a friend's ex")
     if friend == "yes":
-      print("dont say hi")
+      print("Don't say hi.")
     else:
       frenemy = input("is it a friend or enemy")
       if frenemy == "yes":
         car = input("are you in a car with brad pitt or rihanna")
         if car == "yes":
-          print("say hi")
+          print("Say hi.")
         else:
-          print("dont say hi")
+          print("Don't say hi.")
       else:
         bank = input("are you robbing a bank")
         if bank == "yes":
-          print("dont say hi")
+          print("Don't say hi.")
         else:
           bathrobe = input("are you in a bathrobe")
           if bathrobe == "yes":
-            print("dont say hi")
+            print("Don't say hi.")
           else:
-            print("say hi")
+            print("Say hi.")
 else:
   escape = input("can you escape")
   if escape == "yes":
-    print("run")
+    print("Run for it.")
   else:
     call = input("can you pretend to gat a call")
     if call == "yes":
-      print("hello doctor what are my results")
+      print("Hello doctor. What are my test results")
     else:
       glass = input("are you wearing sunglasses")
       if glass == "yes":
-        print("keep walking")
+        print("Keep walking.")
       else:
-        print("address the person with a nickname")
+        print("Address the person using an amusing nickname such as Sarge, Slugger or Master Blaster.")
